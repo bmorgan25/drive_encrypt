@@ -1,4 +1,4 @@
-# drive_encrypt
+# SecureDrive
 
 Design:
   - Passphrase is never stored anywhere. It is fed into Argon2id at
